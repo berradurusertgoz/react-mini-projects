@@ -1,16 +1,35 @@
-# React + Vite
+# React Mini Projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A collection of small React projects built while learning core React concepts.
 
-Currently, two official plugins are available:
+## Topics Covered
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- useState
+- useEffect
+- Props
+- Conditional Rendering
+- API Fetching
+- Custom Hooks
+- Local Storage
+- Recursive Components
+- Dynamic UI
+- Reusable Components
 
-## React Compiler
+## Projects
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Accordion
+- Random Color Generator
+- Star Rating
+- Image Slider
+- Load More Button
+- Tree View
+- QR Generator
+- Light/Dark Theme
+- Scroll Indicator
+- Tabs Component
+- Modal Popup
+- GitHub Profile Finder
 
-## Expanding the ESLint configuration
+## Goal
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Building consistency and improving React skills through hands-on mini projects.
