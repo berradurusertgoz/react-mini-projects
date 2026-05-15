@@ -8,6 +8,7 @@ import ModalDemo from "./components/modal/demo-modal";
 import QRGenerator from "./components/QR-generator";
 import RandomColor from "./components/random-color";
 import ScrollIndicator from "./components/scroll-indicator";
+import SearchComplete from "./components/search-complete";
 import StarRating from "./components/star-rating";
 import DemoTabs from "./components/tabs/demo-tabs";
 import TreeView from "./components/tree-view";
@@ -45,9 +46,10 @@ function App() {
       <DemoTabs />*/}
       {/*  Demo Tabs #11
       <ModalDemo />*/}
-
+      {/*  Github User Fınders #12
       <GithubFinder />
-      
+      */}
+      <SearchComplete />
       
 
     </>
