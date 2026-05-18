@@ -11,6 +11,7 @@ import ScrollIndicator from "./components/scroll-indicator";
 import SearchComplete from "./components/search-complete";
 import StarRating from "./components/star-rating";
 import DemoTabs from "./components/tabs/demo-tabs";
+import TicTacToe from "./components/tic-tac-toe";
 import TreeView from "./components/tree-view";
 import menus from "./components/tree-view/data";
 
@@ -49,7 +50,12 @@ function App() {
       {/*  Github User Fınders #12
       <GithubFinder />
       */}
+      {/*  Search Complete #13
       <SearchComplete />
+      */}
+
+      <TicTacToe />
+      
       
 
     </>
